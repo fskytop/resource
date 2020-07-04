@@ -267,7 +267,7 @@
   {
     "title": "not wanted",
     "href": "http://turnoff.us/geek/not-wanted",
-    "image": "http://turnoff.us/image/en/not-wanted.png"
+    "image": "http://turnoff.us/image/en/wanted-monolith.png"
   },
   {
     "title": "java attacks!",
@@ -282,7 +282,7 @@
   {
     "title": "egoless programming",
     "href": "http://turnoff.us/geek/egoless-programming",
-    "image": "http://turnoff.us/image/en/egoless-programming.png"
+    "image": "http://turnoff.us/image/en/ego.png"
   },
   {
     "title": "serverless economic impact",
@@ -292,12 +292,12 @@
   {
     "title": "the realist manager",
     "href": "http://turnoff.us/geek/the-realist-manager",
-    "image": "http://turnoff.us/image/en/the-realist-manager.png"
+    "image": "http://turnoff.us/image/en/realist-manager.png"
   },
   {
     "title": "math class 2018",
     "href": "http://turnoff.us/geek/math-class-2018",
-    "image": "http://turnoff.us/image/en/math-class-2018.png"
+    "image": "http://turnoff.us/image/en/mathclass2018.png"
   },
   {
     "title": "when ai meets war",
@@ -357,7 +357,7 @@
   {
     "title": "python robots",
     "href": "http://turnoff.us/geek/python-robots",
-    "image": "http://turnoff.us/image/en/python-robots.png"
+    "image": "http://turnoff.us/image/en/python-bots.png"
   },
   {
     "title": "the war for port 80 - epilogue",
@@ -367,12 +367,12 @@
   {
     "title": "terminal password typing",
     "href": "http://turnoff.us/geek/terminal-password-typing",
-    "image": "http://turnoff.us/image/en/terminal-password-typing.png"
+    "image": "http://turnoff.us/image/en/terminal-password-mistake.png"
   },
   {
     "title": "my adorable useless code",
     "href": "http://turnoff.us/geek/my-adorable-useless-code",
-    "image": "http://turnoff.us/image/en/my-adorable-useless-code.png"
+    "image": "http://turnoff.us/image/en/useless-code.png"
   },
   {
     "title": "sex robot",
@@ -392,7 +392,7 @@
   {
     "title": "the bitcoin design pattern",
     "href": "http://turnoff.us/geek/the-bitcoin-design-pattern",
-    "image": "http://turnoff.us/image/en/the-bitcoin-design-pattern.png"
+    "image": "http://turnoff.us/image/en/bitcoin.png"
   },
   {
     "title": "the depressed developer 21",
@@ -407,7 +407,7 @@
   {
     "title": "intel bug",
     "href": "http://turnoff.us/geek/intel-bug",
-    "image": "http://turnoff.us/image/en/intel-bug.png"
+    "image": "http://turnoff.us/image/en/intel-bugs.png"
   },
   {
     "title": "the chroot case",
@@ -422,7 +422,7 @@
   {
     "title": "new year's resolutions",
     "href": "http://turnoff.us/geek/new-years-resolutions",
-    "image": "http://turnoff.us/image/en/new-years-resolutions.png"
+    "image": "http://turnoff.us/image/en/resolutions.png"
   },
   {
     "title": "welcome to hell",
@@ -472,7 +472,7 @@
   {
     "title": "when artificial intelligence meets git",
     "href": "http://turnoff.us/geek/when-ai-meets-git",
-    "image": "http://turnoff.us/image/en/when-ai-meets-git.png"
+    "image": "http://turnoff.us/image/en/ai-meets-git.png"
   },
   {
     "title": "deployment pipeline",
@@ -492,7 +492,7 @@
   {
     "title": "smart windows",
     "href": "http://turnoff.us/geek/smart-windows",
-    "image": "http://turnoff.us/image/en/smart-windows.png"
+    "image": "http://turnoff.us/image/en/windows-ai.png"
   },
   {
     "title": "battle of programming languages",
@@ -507,7 +507,7 @@
   {
     "title": "docker panacea",
     "href": "http://turnoff.us/geek/docker-panacea",
-    "image": "http://turnoff.us/image/en/docker-panacea.png"
+    "image": "http://turnoff.us/image/en/panacea.png"
   },
   {
     "title": "death and the programmer",
@@ -547,7 +547,7 @@
   {
     "title": "it - movie (programmer's version)",
     "href": "http://turnoff.us/geek/it-movie",
-    "image": "http://turnoff.us/image/en/it-movie.png"
+    "image": "http://turnoff.us/image/en/it.png"
   },
   {
     "title": "what your code looks like",
@@ -562,7 +562,7 @@
   {
     "title": "cloud autoscaling revealed",
     "href": "http://turnoff.us/geek/cloud-autoscaling",
-    "image": "http://turnoff.us/image/en/cloud-autoscaling.png"
+    "image": "http://turnoff.us/image/en/autoscaling.png"
   },
   {
     "title": "the depressed developer 17",
@@ -597,12 +597,12 @@
   {
     "title": "backend developer doing css",
     "href": "http://turnoff.us/geek/backend-developer-doing-css",
-    "image": "http://turnoff.us/image/en/backend-developer-doing-css.png"
+    "image": "http://turnoff.us/image/en/backend-programmer-doing-css.png"
   },
   {
     "title": "are you ready for microservices?",
     "href": "http://turnoff.us/geek/are-you-ready-for-microservices",
-    "image": "http://turnoff.us/image/en/are-you-ready-for-microservices.png"
+    "image": "http://turnoff.us/image/en/microservices-and-monolithic.png"
   },
   {
     "title": "battle of software robots",
@@ -672,7 +672,7 @@
   {
     "title": "http2 server push explained",
     "href": "http://turnoff.us/geek/http2-server-push-explained",
-    "image": "http://turnoff.us/image/en/http2-server-push-explained.png"
+    "image": "http://turnoff.us/image/en/http2-server-push.png"
   },
   {
     "title": "how to break up with a programmer",
@@ -707,7 +707,7 @@
   {
     "title": "oh, the 70's",
     "href": "http://turnoff.us/geek/oh-the-70s",
-    "image": "http://turnoff.us/image/en/oh-the-70s.png"
+    "image": "http://turnoff.us/image/en/old-times.png"
   },
   {
     "title": "the depressed developer 16",
@@ -822,7 +822,7 @@
   {
     "title": "bash history",
     "href": "http://turnoff.us/geek/bash-history",
-    "image": "http://turnoff.us/image/en/bash-history.png"
+    "image": "http://turnoff.us/image/en/bash_history.png"
   },
   {
     "title": "my (dev) morning routine",
@@ -882,7 +882,7 @@
   {
     "title": "inheritance versus composition",
     "href": "http://turnoff.us/geek/inheritance-versus-composition",
-    "image": "http://turnoff.us/image/en/inheritance-versus-composition.png"
+    "image": "http://turnoff.us/image/en/cokorange.png"
   },
   {
     "title": "coding from anthill",
@@ -917,7 +917,7 @@
   {
     "title": "programmer levels",
     "href": "http://turnoff.us/geek/programmer-leves",
-    "image": "http://turnoff.us/image/en/programmer-leves.png"
+    "image": "http://turnoff.us/image/en/programmer-levels.png"
   },
   {
     "title": "microservices",
@@ -937,12 +937,12 @@
   {
     "title": "zombie processes",
     "href": "http://turnoff.us/geek/zombie-processes",
-    "image": "http://turnoff.us/image/en/zombie-processes.png"
+    "image": "http://turnoff.us/image/en/zombies.png"
   },
   {
     "title": "poprocks and coke",
     "href": "http://turnoff.us/geek/poprocks-and-coke",
-    "image": "http://turnoff.us/image/en/poprocks-and-coke.png"
+    "image": "http://turnoff.us/image/en/8bits.png"
   },
   {
     "title": "jhamlet",
@@ -952,12 +952,12 @@
   {
     "title": "java thread life",
     "href": "http://turnoff.us/geek/java-thread-life",
-    "image": "http://turnoff.us/image/en/java-thread-life.png"
+    "image": "http://turnoff.us/image/en/thread-life.png"
   },
   {
     "title": "stranger things - in the sysadmin's world",
     "href": "http://turnoff.us/geek/stranger-things-sysadmin-world",
-    "image": "http://turnoff.us/image/en/stranger-things-sysadmin-world.png"
+    "image": "http://turnoff.us/image/en/stranger-things.png"
   },
   {
     "title": "who killed mysql? - epilogue",
@@ -1007,7 +1007,7 @@
   {
     "title": "reactive and boring",
     "href": "http://turnoff.us/geek/reactive-and-boring",
-    "image": "http://turnoff.us/image/en/reactive-and-boring.png"
+    "image": "http://turnoff.us/image/en/reactive-boring.png"
   },
   {
     "title": "hype detected",
@@ -1052,7 +1052,7 @@
   {
     "title": "about javascript developers",
     "href": "http://turnoff.us/geek/love-ecma6",
-    "image": "http://turnoff.us/image/en/love-ecma6.png"
+    "image": "http://turnoff.us/image/en/love-ecmascript6.png"
   },
   {
     "title": "the real reason to not use sigkill",
@@ -1062,7 +1062,7 @@
   {
     "title": "java 20 - predictions",
     "href": "http://turnoff.us/geek/java20-predictions",
-    "image": "http://turnoff.us/image/en/java20-predictions.png"
+    "image": "http://turnoff.us/image/en/java20.png"
   },
   {
     "title": "do the evolution, baby!",
@@ -1112,7 +1112,7 @@
   {
     "title": "java family crisis",
     "href": "http://turnoff.us/geek/java-family-crisis",
-    "image": "http://turnoff.us/image/en/java-family-crisis.png"
+    "image": "http://turnoff.us/image/en/family-crisis.png"
   },
   {
     "title": "annoying software 3 - the date situation",
@@ -1122,7 +1122,7 @@
   {
     "title": "the (sometimes hard) cloud journey ",
     "href": "http://turnoff.us/geek/cloud-sometimes-hard-journey",
-    "image": "http://turnoff.us/image/en/cloud-sometimes-hard-journey.png"
+    "image": "http://turnoff.us/image/en/cloud-hard-journey.png"
   },
   {
     "title": "thread.sleep room",
@@ -1132,7 +1132,7 @@
   {
     "title": "web server upgrade training",
     "href": "http://turnoff.us/geek/webserver-upgrade-training",
-    "image": "http://turnoff.us/image/en/webserver-upgrade-training.png"
+    "image": "http://turnoff.us/image/en/upgrade-training.png"
   },
   {
     "title": "life in a web server",
@@ -1142,7 +1142,7 @@
   {
     "title": "mastering regexp",
     "href": "http://turnoff.us/geek/mastering-regexp",
-    "image": "http://turnoff.us/image/en/mastering-regexp.png"
+    "image": "http://turnoff.us/image/en/regexp.png"
   },
   {
     "title": "java collections in duck life",
@@ -1172,7 +1172,7 @@
   {
     "title": "advanced species",
     "href": "http://turnoff.us/geek/advanced-species",
-    "image": "http://turnoff.us/image/en/advanced-species.png"
+    "image": "http://turnoff.us/image/en/erlang.png"
   },
   {
     "title": "the modern evil",
@@ -1182,17 +1182,17 @@
   {
     "title": "software testing",
     "href": "http://turnoff.us/geek/software-test",
-    "image": "http://turnoff.us/image/en/software-test.png"
+    "image": "http://turnoff.us/image/en/test.png"
   },
   {
     "title": "arduino project",
     "href": "http://turnoff.us/geek/arduino-project",
-    "image": "http://turnoff.us/image/en/arduino-project.png"
+    "image": "http://turnoff.us/image/en/arduino-new.png"
   },
   {
     "title": "tales of dos",
     "href": "http://turnoff.us/geek/tales-of-dos",
-    "image": "http://turnoff.us/image/en/tales-of-dos.png"
+    "image": "http://turnoff.us/image/en/dos.png"
   },
   {
     "title": "developers",
@@ -1202,6 +1202,6 @@
   {
     "title": "tcp buddies",
     "href": "http://turnoff.us/geek/tcp-buddies",
-    "image": "http://turnoff.us/image/en/tcp-buddies.png"
+    "image": "http://turnoff.us/image/en/tcp.png"
   }
 ]
