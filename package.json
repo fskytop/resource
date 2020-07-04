@@ -1,12 +1,12 @@
 {
-  "name": "@micro-frontend/content",
+  "name": "@fsky/resource",
   "version": "0.1.0",
   "private": false,
   "description": "Micro frontend content service",
-  "repository": "git@github.com:iteration-0/micro-frontend-content-react.git",
-  "author": "Wayde Sun",
+  "repository": "git@github.com:fskytop/resource.git",
+  "author": "github.com/sunwei",
   "license": "MIT",
-  "homepage": "https://mfe.main.sunwei.xyz",
+  "homepage": "https://fsky.top",
   "scripts": {
     "build": "node index.js",
     "start": "serve -l 4999 --cors resource"
