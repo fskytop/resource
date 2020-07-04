@@ -1,0 +1,13 @@
+{
+  "name": "DevOps or not",
+  "date": "2020-05-05",
+  "imageSrc": "BASE64==",
+  "imageDescription": "A photo of a burger with fries and a milkshake",
+  "imageWidth": 200,
+  "imageHeight": 200,
+  "imageSize": "3M",
+  "source": {
+    "site": "https://some-where.com",
+    "image": "https://some-where.com/1.jpg"
+  }
+}
