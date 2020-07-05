@@ -8,10 +8,10 @@ on:
     branches:
       - master
     paths-ignore:
-      - 'resource/comics/**/*.json'
+      - 'resource/sky/**/*.json'
   pull_request:
     paths-ignore:
-      - 'resource/comics/**/*.json'
+      - 'resource/sky/**/*.json'
 
 jobs:
   build:
