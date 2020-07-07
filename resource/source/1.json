@@ -1,1206 +1,1447 @@
 [
   {
     "title": "to devops or not to devops",
+    "tags": "devops",
     "href": "http://turnoff.us/geek/to-devops-or-not-to-devops",
     "image": "http://turnoff.us/image/en/devops-or-not-devops.png"
   },
   {
     "title": "security expert",
+    "tags": "security",
     "href": "http://turnoff.us/geek/security-expert",
     "image": "http://turnoff.us/image/en/security-expert.png"
   },
   {
     "title": "perspective",
+    "tags": "javascript language",
     "href": "http://turnoff.us/geek/perspective",
     "image": "http://turnoff.us/image/en/perspective.png"
   },
   {
     "title": "skype for linux",
+    "tags": "tool system",
     "href": "http://turnoff.us/geek/skype-for-linux",
     "image": "http://turnoff.us/image/en/skype-for-linux.png"
   },
   {
     "title": "end of the world",
+    "tags": "framework",
     "href": "http://turnoff.us/geek/end-of-the-world",
     "image": "http://turnoff.us/image/en/end-of-the-world.png"
   },
   {
     "title": "quarantine",
+    "tags": "developer covid-19",
     "href": "http://turnoff.us/geek/quarantine",
     "image": "http://turnoff.us/image/en/quarantine.png"
   },
   {
     "title": "we are hiring devops",
+    "tags": "devops",
     "href": "http://turnoff.us/geek/we-are-hiring-devops",
     "image": "http://turnoff.us/image/en/devops-2.png"
   },
   {
     "title": "the naive engineer",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-naive-engineer",
     "image": "http://turnoff.us/image/en/http3.png"
   },
   {
     "title": "commit messages",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/commit-messages",
     "image": "http://turnoff.us/image/en/commit-messages.png"
   },
   {
     "title": "bad malloc",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/bad-malloc",
     "image": "http://turnoff.us/image/en/bad-malloc.png"
   },
   {
     "title": "to save the devops world",
+    "tags": "devops container",
     "href": "http://turnoff.us/geek/linux-containers",
     "image": "http://turnoff.us/image/en/linux-containers.png"
   },
   {
     "title": "beware of dog",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/beware-of-dog",
     "image": "http://turnoff.us/image/en/beware-of-dog.png"
   },
   {
     "title": "the bad design punisher",
+    "tags": "design",
     "href": "http://turnoff.us/geek/the-bad-design-punisher",
     "image": "http://turnoff.us/image/en/the-bad-design-punisher.png"
   },
   {
     "title": "profile pics vs real life",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/profile-pic-vs-real-life",
     "image": "http://turnoff.us/image/en/profile-pic.png"
   },
   {
     "title": "sudo prank",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/sudo-prank",
     "image": "http://turnoff.us/image/en/sudo.png"
   },
   {
     "title": "how to cut onions without tears (using oracle)",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/how-to-cut-onions-without-tears",
     "image": "http://turnoff.us/image/en/how-to-cut-onions-without-tears.png"
   },
   {
     "title": "marketing strategy",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/marketing-strategy",
     "image": "http://turnoff.us/image/en/marketing-strategy.png"
   },
   {
     "title": "the depressed developer 55",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-55",
     "image": "http://turnoff.us/image/en/depressed-developer-55.png"
   },
   {
     "title": "the depressed developer 54",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-54",
     "image": "http://turnoff.us/image/en/depressed-developer-54.png"
   },
   {
     "title": "cors explained",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/cors-explained",
     "image": "http://turnoff.us/image/en/cors.png"
   },
   {
     "title": "the depressed developer 53",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-53",
     "image": "http://turnoff.us/image/en/depressed-developer-53.png"
   },
   {
     "title": "securing jenkins",
+    "tags": "security tool",
     "href": "http://turnoff.us/geek/securing-jenkins",
     "image": "http://turnoff.us/image/en/jenkins.png"
   },
   {
     "title": "the depressed developer 52",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-52",
     "image": "http://turnoff.us/image/en/depressed-developer-52.png"
   },
   {
     "title": "the depressed developer 51",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-51",
     "image": "http://turnoff.us/image/en/depressed-developer-51.png"
   },
   {
     "title": "checksum",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/file-checksum",
     "image": "http://turnoff.us/image/en/file-checksum.png"
   },
   {
     "title": "the depressed developer 50",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-50",
     "image": "http://turnoff.us/image/en/depressed-developer-50.png"
   },
   {
     "title": "oracle downloads page",
+    "tags": "tool oracle",
     "href": "http://turnoff.us/geek/oracle-download-pages",
     "image": "http://turnoff.us/image/en/oracle-downloads-page.png"
   },
   {
     "title": "the depressed developer 47",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-47",
     "image": "http://turnoff.us/image/en/depressed-developer-47.png"
   },
   {
     "title": "the depressed developer 46",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-46",
     "image": "http://turnoff.us/image/en/depressed-developer-46.png"
   },
   {
     "title": "sysadmin",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/sysadmin",
     "image": "http://turnoff.us/image/en/sysadmin.png"
   },
   {
     "title": "the depressed developer 45",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-45",
     "image": "http://turnoff.us/image/en/depressed-developer-45.png"
   },
   {
     "title": "hello world!",
+    "tags": "language",
     "href": "http://turnoff.us/geek/hello-world",
     "image": "http://turnoff.us/image/en/hello-world.png"
   },
   {
     "title": "the depressed developer 44",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-44",
     "image": "http://turnoff.us/image/en/depressed-developer-44.png"
   },
   {
     "title": "valentine's day at the kernel",
+    "tags": "system",
     "href": "http://turnoff.us/geek/valentines-day",
     "image": "http://turnoff.us/image/en/valentines-day.png"
   },
   {
     "title": "the depressed developer 43",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-43",
     "image": "http://turnoff.us/image/en/depressed-developer-43.png"
   },
   {
     "title": "what processes do when they're idle",
+    "tags": "system",
     "href": "http://turnoff.us/geek/idle",
     "image": "http://turnoff.us/image/en/idle.png"
   },
   {
     "title": "first time",
+    "tags": "developer system",
     "href": "http://turnoff.us/geek/first-time",
     "image": "http://turnoff.us/image/en/first-time.png"
   },
   {
     "title": "kernel economics",
+    "tags": "developer system",
     "href": "http://turnoff.us/geek/kernel-economics",
     "image": "http://turnoff.us/image/en/kernel-economy.png"
   },
   {
     "title": "developer costumes",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/halloween-2",
     "image": "http://turnoff.us/image/en/halloween-2.png"
   },
   {
     "title": "halloween",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/halloween",
     "image": "http://turnoff.us/image/en/halloween.png"
   },
   {
     "title": "the depressed developer 42",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-42",
     "image": "http://turnoff.us/image/en/depressed-developer-42.png"
   },
   {
     "title": "the depressed developer 41",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-41",
     "image": "http://turnoff.us/image/en/depressed-developer-41.png"
   },
   {
     "title": "the depressed developer 40",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-40",
     "image": "http://turnoff.us/image/en/depressed-developer-40.png"
   },
   {
     "title": "the depressed developer 37",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-37",
     "image": "http://turnoff.us/image/en/depressed-developer-37.png"
   },
   {
     "title": "the depressed developer 36",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-36",
     "image": "http://turnoff.us/image/en/depressed-developer-36.png"
   },
   {
     "title": "the depressed developer 35",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-35",
     "image": "http://turnoff.us/image/en/depressed-developer-35.png"
   },
   {
     "title": "the depressed developer 34",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-34",
     "image": "http://turnoff.us/image/en/depressed-developer-34.png"
   },
   {
     "title": "the depressed developer 33",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-33",
     "image": "http://turnoff.us/image/en/depressed-developer-33.png"
   },
   {
     "title": "the depressed developer 32",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-32",
     "image": "http://turnoff.us/image/en/depressed-developer-32.png"
   },
   {
     "title": "the depressed developer 31",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-31",
     "image": "http://turnoff.us/image/en/depressed-developer-31.png"
   },
   {
     "title": "the depressed developer 30",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-30",
     "image": "http://turnoff.us/image/en/depressed-developer-30.png"
   },
   {
     "title": "the depressed developer 27",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-27",
     "image": "http://turnoff.us/image/en/depressed-developer-27.png"
   },
   {
     "title": "first day on the job",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/first-day-on-the-job",
     "image": "http://turnoff.us/image/en/first-day-on-the-job.png"
   },
   {
     "title": "not wanted",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/not-wanted",
     "image": "http://turnoff.us/image/en/wanted-monolith.png"
   },
   {
     "title": "java attacks!",
+    "tags": "security language",
     "href": "http://turnoff.us/geek/java-attacks",
     "image": "http://turnoff.us/image/en/java-attacks.png"
   },
   {
     "title": "disney buys linux",
+    "tags": "system",
     "href": "http://turnoff.us/geek/disney-buys-linux",
     "image": "http://turnoff.us/image/en/disney-buys-linux.png"
   },
   {
     "title": "egoless programming",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/egoless-programming",
     "image": "http://turnoff.us/image/en/ego.png"
   },
   {
     "title": "serverless economic impact",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/serverless-economic-impact",
     "image": "http://turnoff.us/image/en/serverless-economic-impact.png"
   },
   {
     "title": "the realist manager",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-realist-manager",
     "image": "http://turnoff.us/image/en/realist-manager.png"
   },
   {
     "title": "math class 2018",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/math-class-2018",
     "image": "http://turnoff.us/image/en/mathclass2018.png"
   },
   {
     "title": "when ai meets war",
+    "tags": "ai",
     "href": "http://turnoff.us/geek/when-ai-meets-war",
     "image": "http://turnoff.us/image/en/when-ai-meets-war.png"
   },
   {
     "title": "devops",
+    "tags": "devops",
     "href": "http://turnoff.us/geek/devops",
     "image": "http://turnoff.us/image/en/devops.png"
   },
   {
     "title": "terminal transparency",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/terminal-transparency",
     "image": "http://turnoff.us/image/en/terminal-transparency.png"
   },
   {
     "title": "the depressed developer 26",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-26",
     "image": "http://turnoff.us/image/en/depressed-developer-26.png"
   },
   {
     "title": "the depressed developer 25",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-25",
     "image": "http://turnoff.us/image/en/depressed-developer-25.png"
   },
   {
     "title": "the depressed developer 24",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-24",
     "image": "http://turnoff.us/image/en/depressed-developer-24.png"
   },
   {
     "title": "the depressed developer 23",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-23",
     "image": "http://turnoff.us/image/en/depressed-developer-23.png"
   },
   {
     "title": "the depressed developer 22",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-22",
     "image": "http://turnoff.us/image/en/depressed-developer-22.png"
   },
   {
     "title": "commitland!",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/commitland",
     "image": "http://turnoff.us/image/en/commitland.png"
   },
   {
     "title": "ruby concurrency book",
+    "tags": "language",
     "href": "http://turnoff.us/geek/ruby-concurrency-book",
     "image": "http://turnoff.us/image/en/ruby-concurrency-book.png"
   },
   {
     "title": "npm install",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/npm-install",
     "image": "http://turnoff.us/image/en/npm-install.png"
   },
   {
     "title": "python robots",
+    "tags": "language",
     "href": "http://turnoff.us/geek/python-robots",
     "image": "http://turnoff.us/image/en/python-bots.png"
   },
   {
     "title": "the war for port 80 - epilogue",
+    "tags": "system",
     "href": "http://turnoff.us/geek/apache-vs-nginx-epilogue",
     "image": "http://turnoff.us/image/en/apache-vs-nginx-epilogue.png"
   },
   {
     "title": "terminal password typing",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/terminal-password-typing",
     "image": "http://turnoff.us/image/en/terminal-password-mistake.png"
   },
   {
     "title": "my adorable useless code",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/my-adorable-useless-code",
     "image": "http://turnoff.us/image/en/useless-code.png"
   },
   {
     "title": "sex robot",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/sex-robot",
     "image": "http://turnoff.us/image/en/sex-robot.png"
   },
   {
     "title": "the last resort",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/the-last-resort",
     "image": "http://turnoff.us/image/en/the-last-resort.png"
   },
   {
     "title": "forked!",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/forked",
     "image": "http://turnoff.us/image/en/forked.png"
   },
   {
     "title": "the bitcoin design pattern",
+    "tags": "design",
     "href": "http://turnoff.us/geek/the-bitcoin-design-pattern",
     "image": "http://turnoff.us/image/en/bitcoin.png"
   },
   {
     "title": "the depressed developer 21",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-21",
     "image": "http://turnoff.us/image/en/depressed-developer-21.png"
   },
   {
     "title": "meltdown and spectre impacts",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/meltdown-impact",
     "image": "http://turnoff.us/image/en/meltdown-impact.png"
   },
   {
     "title": "intel bug",
+    "tags": "system",
     "href": "http://turnoff.us/geek/intel-bug",
     "image": "http://turnoff.us/image/en/intel-bugs.png"
   },
   {
     "title": "the chroot case",
+    "tags": "system",
     "href": "http://turnoff.us/geek/the-chroot-case",
     "image": "http://turnoff.us/image/en/the-chroot-case.png"
   },
   {
     "title": "programmers over time",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/programmers-over-time",
     "image": "http://turnoff.us/image/en/programmers-over-time.png"
   },
   {
     "title": "new year's resolutions",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/new-years-resolutions",
     "image": "http://turnoff.us/image/en/resolutions.png"
   },
   {
     "title": "welcome to hell",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/welcome-to-hell",
     "image": "http://turnoff.us/image/en/welcome-to-hell.png"
   },
   {
     "title": "letter to santa",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/letter-to-santa",
     "image": "http://turnoff.us/image/en/letter-to-santa.png"
   },
   {
     "title": "how will the end of net neutrality affect iot",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/net-neutrality-and-iot",
     "image": "http://turnoff.us/image/en/net-neutrality-and-iot.png"
   },
   {
     "title": "the specialist",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-specialist",
     "image": "http://turnoff.us/image/en/the-specialist.png"
   },
   {
     "title": "augmented reality 2",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/augmented-reality-2",
     "image": "http://turnoff.us/image/en/augmented-reality-2.png"
   },
   {
     "title": "meetings",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/meetings",
     "image": "http://turnoff.us/image/en/meetings.png"
   },
   {
     "title": "chatbot",
+    "tags": "developer tool",
     "href": "http://turnoff.us/geek/chatbot",
     "image": "http://turnoff.us/image/en/chatbot.png"
   },
   {
     "title": "the depressed developer 20",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-20",
     "image": "http://turnoff.us/image/en/depressed-developer-20.png"
   },
   {
     "title": "tobby's world",
+    "tags": "language",
     "href": "http://turnoff.us/geek/tobbys-world",
     "image": "http://turnoff.us/image/en/tobbys-world.png"
   },
   {
     "title": "when artificial intelligence meets git",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/when-ai-meets-git",
     "image": "http://turnoff.us/image/en/ai-meets-git.png"
   },
   {
     "title": "deployment pipeline",
+    "tags": "devops",
     "href": "http://turnoff.us/geek/deployment-pipeline",
     "image": "http://turnoff.us/image/en/deployment-pipeline.png"
   },
   {
     "title": "at the computer museum",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/computer-museum",
     "image": "http://turnoff.us/image/en/computer-museum.png"
   },
   {
     "title": "follow the hype",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/follow-the-hype",
     "image": "http://turnoff.us/image/en/follow-the-hype.png"
   },
   {
     "title": "smart windows",
+    "tags": "system",
     "href": "http://turnoff.us/geek/smart-windows",
     "image": "http://turnoff.us/image/en/windows-ai.png"
   },
   {
     "title": "battle of programming languages",
+    "tags": "language",
     "href": "http://turnoff.us/geek/programming-languages-battle",
     "image": "http://turnoff.us/image/en/programming-languages-battle.png"
   },
   {
     "title": "windows update",
+    "tags": "system",
     "href": "http://turnoff.us/geek/windows-update",
     "image": "http://turnoff.us/image/en/windows-update.png"
   },
   {
     "title": "docker panacea",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/docker-panacea",
     "image": "http://turnoff.us/image/en/panacea.png"
   },
   {
     "title": "death and the programmer",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/death-and-the-programmer",
     "image": "http://turnoff.us/image/en/death-and-the-programmer.png"
   },
   {
     "title": "will ai take our jobs?",
+    "tags": "developer ai",
     "href": "http://turnoff.us/geek/will-ai-take-our-jobs",
     "image": "http://turnoff.us/image/en/will-ai-take-our-jobs.png"
   },
   {
     "title": "business logic on frontend",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/business-logic-on-frontend",
     "image": "http://turnoff.us/image/en/business-logic-on-frontend.png"
   },
   {
     "title": "before devops / after devops",
+    "tags": "devops",
     "href": "http://turnoff.us/geek/before-devops-after-devops",
     "image": "http://turnoff.us/image/en/before-devops-after-devops.png"
   },
   {
     "title": "good night, programmers!",
+    "tags": "devops",
     "href": "http://turnoff.us/geek/good-night-programmers",
     "image": "http://turnoff.us/image/en/good-night-programmers.png"
   },
   {
     "title": "chronicles of pair programming 2",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/chronicles-of-pair-programming-2",
     "image": "http://turnoff.us/image/en/chronicles-of-pair-programming-2.png"
   },
   {
     "title": "super power",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/super-power",
     "image": "http://turnoff.us/image/en/super-power.png"
   },
   {
     "title": "it - movie (programmer's version)",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/it-movie",
     "image": "http://turnoff.us/image/en/it.png"
   },
   {
     "title": "what your code looks like",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/what-your-code-looks-like",
     "image": "http://turnoff.us/image/en/what-your-code-looks-like.png"
   },
   {
     "title": "tdd versus ftt",
+    "tags": "practice tdd",
     "href": "http://turnoff.us/geek/tdd-vs-ftt",
     "image": "http://turnoff.us/image/en/tdd-vs-ftt.png"
   },
   {
     "title": "cloud autoscaling revealed",
+    "tags": "design",
     "href": "http://turnoff.us/geek/cloud-autoscaling",
     "image": "http://turnoff.us/image/en/autoscaling.png"
   },
   {
     "title": "the depressed developer 17",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-17",
     "image": "http://turnoff.us/image/en/depressed-developer-17.png"
   },
   {
     "title": "ai regulation",
+    "tags": "ai",
     "href": "http://turnoff.us/geek/ai-regulation",
     "image": "http://turnoff.us/image/en/ai-regulation.png"
   },
   {
     "title": "three dbas walk into a nosql bar",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/dbas-nosql-bar",
     "image": "http://turnoff.us/image/en/dbas-nosql-bar.png"
   },
   {
     "title": "functional world",
+    "tags": "developer design",
     "href": "http://turnoff.us/geek/functional-world",
     "image": "http://turnoff.us/image/en/functional-world.png"
   },
   {
     "title": "meow-ware",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/meow-ware",
     "image": "http://turnoff.us/image/en/meow-ware.png"
   },
   {
     "title": "escape room",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/escape-room",
     "image": "http://turnoff.us/image/en/escape-room.png"
   },
   {
     "title": "backend developer doing css",
+    "tags": "developer design",
     "href": "http://turnoff.us/geek/backend-developer-doing-css",
     "image": "http://turnoff.us/image/en/backend-programmer-doing-css.png"
   },
   {
     "title": "are you ready for microservices?",
+    "tags": "developer design practice",
     "href": "http://turnoff.us/geek/are-you-ready-for-microservices",
     "image": "http://turnoff.us/image/en/microservices-and-monolithic.png"
   },
   {
     "title": "battle of software robots",
+    "tags": "developer ai",
     "href": "http://turnoff.us/geek/battle-of-software-robots",
     "image": "http://turnoff.us/image/en/battle-of-software-robots.png"
   },
   {
     "title": "the monolith retirement",
+    "tags": "developer design",
     "href": "http://turnoff.us/geek/monolith-retirement",
     "image": "http://turnoff.us/image/en/monolith-retirement.png"
   },
   {
     "title": "when you tail -f but forget to grep",
+    "tags": "practice tool",
     "href": "http://turnoff.us/geek/tail-no-grep",
     "image": "http://turnoff.us/image/en/tail-no-grep.png"
   },
   {
     "title": "devops is not a role",
+    "tags": "devops",
     "href": "http://turnoff.us/geek/devops-explained",
     "image": "http://turnoff.us/image/en/devops-explained.png"
   },
   {
     "title": "chronicles of pair programming",
+    "tags": "devops",
     "href": "http://turnoff.us/geek/chronicles-of-pair-programming",
     "image": "http://turnoff.us/image/en/chronicles-of-pair-programming.png"
   },
   {
     "title": "cloud lock-in",
+    "tags": "design cloud",
     "href": "http://turnoff.us/geek/cloud-lock-in",
     "image": "http://turnoff.us/image/en/cloud-lock-in.png"
   },
   {
     "title": "private cloud",
+    "tags": "design cloud",
     "href": "http://turnoff.us/geek/private-cloud",
     "image": "http://turnoff.us/image/en/private-cloud.png"
   },
   {
     "title": "lang buddies 2",
+    "tags": "language",
     "href": "http://turnoff.us/geek/lang-buddies-2",
     "image": "http://turnoff.us/image/en/lang-buddies-2.png"
   },
   {
     "title": "a comic about php good parts",
+    "tags": "language",
     "href": "http://turnoff.us/geek/php-good-parts",
     "image": "http://turnoff.us/image/en/php-good-parts.png"
   },
   {
     "title": "python private methods",
+    "tags": "language",
     "href": "http://turnoff.us/geek/python-private-methods",
     "image": "http://turnoff.us/image/en/python-private-methods.png"
   },
   {
     "title": "machine learning class",
+    "tags": "ai",
     "href": "http://turnoff.us/geek/machine-learning-class",
     "image": "http://turnoff.us/image/en/machine-learning-class.png"
   },
   {
     "title": "distributed architecture drama",
+    "tags": "design",
     "href": "http://turnoff.us/geek/distributed-architecture-drama",
     "image": "http://turnoff.us/image/en/distributed-architecture-drama.png"
   },
   {
     "title": "enterprise vs startup journey to cloud",
+    "tags": "design cloud",
     "href": "http://turnoff.us/geek/enterprise-vs-startup-journey-to-cloud",
     "image": "http://turnoff.us/image/en/enterprise-vs-startup-journey-to-cloud.png"
   },
   {
     "title": "http2 server push explained",
+    "tags": "developer tool",
     "href": "http://turnoff.us/geek/http2-server-push-explained",
     "image": "http://turnoff.us/image/en/http2-server-push.png"
   },
   {
     "title": "how to break up with a programmer",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/how-to-break-up-with-a-programmer",
     "image": "http://turnoff.us/image/en/how-to-break-up-with-a-programmer.png"
   },
   {
     "title": "we need to talk about ssl",
+    "tags": "developer tool",
     "href": "http://turnoff.us/geek/we-need-to-talk-about-ssl",
     "image": "http://turnoff.us/image/en/we-need-to-talk-about-ssl.png"
   },
   {
     "title": "java jigsaw rejected",
+    "tags": "language",
     "href": "http://turnoff.us/geek/jigsaw-rejected",
     "image": "http://turnoff.us/image/en/jigsaw-rejected.png"
   },
   {
     "title": "chown - chmod",
+    "tags": "system tool",
     "href": "http://turnoff.us/geek/chown-chmod",
     "image": "http://turnoff.us/image/en/chown-chmod.png"
   },
   {
     "title": "solution escalation",
+    "tags": "design",
     "href": "http://turnoff.us/geek/solution-escalation",
     "image": "http://turnoff.us/image/en/solution-escalation.png"
   },
   {
     "title": "lang buddies",
+    "tags": "language",
     "href": "http://turnoff.us/geek/lang-buddies",
     "image": "http://turnoff.us/image/en/lang-buddies.png"
   },
   {
     "title": "oh, the 70's",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/oh-the-70s",
     "image": "http://turnoff.us/image/en/old-times.png"
   },
   {
     "title": "the depressed developer 16",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-16",
     "image": "http://turnoff.us/image/en/depressed-developer-16.png"
   },
   {
     "title": "the depressed developer 15",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-15",
     "image": "http://turnoff.us/image/en/depressed-developer-15.png"
   },
   {
     "title": "the depressed developer 14",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-14",
     "image": "http://turnoff.us/image/en/depressed-developer-14.png"
   },
   {
     "title": "when you hire the wrong architect",
+    "tags": "developer design",
     "href": "http://turnoff.us/geek/wrong-architect",
     "image": "http://turnoff.us/image/en/wrong-architect.png"
   },
   {
     "title": "the depressed developer 13",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-13",
     "image": "http://turnoff.us/image/en/depressed-developer-13.png"
   },
   {
     "title": "java packaging system",
+    "tags": "system language",
     "href": "http://turnoff.us/geek/java-packaging",
     "image": "http://turnoff.us/image/en/java-packaging.png"
   },
   {
     "title": "life (and death) in the db connection pool",
+    "tags": "developer tool",
     "href": "http://turnoff.us/geek/db-connection-pool",
     "image": "http://turnoff.us/image/en/db-connection-pool.png"
   },
   {
     "title": "the depressed developer 12",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-12",
     "image": "http://turnoff.us/image/en/depressed-developer-12.png"
   },
   {
     "title": "ghost in the shell",
+    "tags": "tool system",
     "href": "http://turnoff.us/geek/ghost-in-the-shell",
     "image": "http://turnoff.us/image/en/ghost-in-the-shell.png"
   },
   {
     "title": "linus torvald's house",
+    "tags": "system",
     "href": "http://turnoff.us/geek/linus-torvalds-house",
     "image": "http://turnoff.us/image/en/linus-torvalds-house.png"
   },
   {
     "title": "sudo (board game)",
+    "tags": "system tool",
     "href": "http://turnoff.us/geek/sudo-board-game",
     "image": "http://turnoff.us/image/en/sudo-board-game.png"
   },
   {
     "title": "ode to my family",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/ode-to-my-family",
     "image": "http://turnoff.us/image/en/ode-to-my-family.png"
   },
   {
     "title": "the depressed developer 11",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-11",
     "image": "http://turnoff.us/image/en/depressed-developer-11.png"
   },
   {
     "title": "the jealous process",
+    "tags": "system tool",
     "href": "http://turnoff.us/geek/the-jealous-process",
     "image": "http://turnoff.us/image/en/the-jealous-process.png"
   },
   {
     "title": "#!s",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/shebang",
     "image": "http://turnoff.us/image/en/shebang.png"
   },
   {
     "title": "the depressed developer 10",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-10",
     "image": "http://turnoff.us/image/en/depressed-developer-10.png"
   },
   {
     "title": "user space election",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/user-space-election",
     "image": "http://turnoff.us/image/en/user-space-election.png"
   },
   {
     "title": "the depressed developer 7",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-7",
     "image": "http://turnoff.us/image/en/depressed-developer-7.png"
   },
   {
     "title": "the war for port 80",
+    "tags": "design system",
     "href": "http://turnoff.us/geek/apache-vs-nginx",
     "image": "http://turnoff.us/image/en/apache-vs-nginx.png"
   },
   {
     "title": "the depressed developer 6",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-6",
     "image": "http://turnoff.us/image/en/depressed-developer-6.png"
   },
   {
     "title": "adopt a good cause, don't sigkill",
+    "tags": "system tool",
     "href": "http://turnoff.us/geek/dont-sigkill-2",
     "image": "http://turnoff.us/image/en/dont-sigkill-2.png"
   },
   {
     "title": "happy 0b11111100001",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/2016-2017",
     "image": "http://turnoff.us/image/en/2016-2017.png"
   },
   {
     "title": "bash history",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/bash-history",
     "image": "http://turnoff.us/image/en/bash_history.png"
   },
   {
     "title": "my (dev) morning routine",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/my-morning-routine",
     "image": "http://turnoff.us/image/en/my-morning-routine.png"
   },
   {
     "title": "the depressed developer 5",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-5",
     "image": "http://turnoff.us/image/en/depressed-developer-5.png"
   },
   {
     "title": "the real reason not to share a mutable state",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/dont-share-mutable-state",
     "image": "http://turnoff.us/image/en/dont-share-mutable-state.png"
   },
   {
     "title": "any given day",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/sql-injection",
     "image": "http://turnoff.us/image/en/sql-injection.png"
   },
   {
     "title": "one last question",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/one-last-question",
     "image": "http://turnoff.us/image/en/one-last-question.png"
   },
   {
     "title": "the depressed developer 3",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-3",
     "image": "http://turnoff.us/image/en/depressed-developer-3.png"
   },
   {
     "title": "the depressed developer 4",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-4",
     "image": "http://turnoff.us/image/en/depressed-developer-4.png"
   },
   {
     "title": "the depressed developer 2",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer-2",
     "image": "http://turnoff.us/image/en/depressed-developer-2.png"
   },
   {
     "title": "the depressed developer",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/the-depressed-developer",
     "image": "http://turnoff.us/image/en/depressed-developer.png"
   },
   {
     "title": "protocols",
+    "tags": "design",
     "href": "http://turnoff.us/geek/protocols",
     "image": "http://turnoff.us/image/en/protocols.png"
   },
   {
     "title": "the lord of the matrix",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/the-lord-of-the-matrix",
     "image": "http://turnoff.us/image/en/the-lord-of-the-matrix.png"
   },
   {
     "title": "inheritance versus composition",
+    "tags": "developer design",
     "href": "http://turnoff.us/geek/inheritance-versus-composition",
     "image": "http://turnoff.us/image/en/cokorange.png"
   },
   {
     "title": "coding from anthill",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/ant",
     "image": "http://turnoff.us/image/en/ant.png"
   },
   {
     "title": "life of embedded processes",
+    "tags": "developer tool",
     "href": "http://turnoff.us/geek/ubuntu-core-2",
     "image": "http://turnoff.us/image/en/ubuntu-core-2.png"
   },
   {
     "title": "deadline",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/deadline",
     "image": "http://turnoff.us/image/en/deadline.png"
   },
   {
     "title": "ubuntu core",
+    "tags": "system",
     "href": "http://turnoff.us/geek/ubuntu-core",
     "image": "http://turnoff.us/image/en/ubuntu-core.png"
   },
   {
     "title": "the truth about google",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/the-truth-about-google",
     "image": "http://turnoff.us/image/en/the-truth-about-google.png"
   },
   {
     "title": "inside the linux kernel",
+    "tags": "system",
     "href": "http://turnoff.us/geek/inside-the-linux-kernel",
     "image": "http://turnoff.us/image/en/inside-the-linux-kernel.png"
   },
   {
     "title": "programmer levels",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/programmer-leves",
     "image": "http://turnoff.us/image/en/programmer-levels.png"
   },
   {
     "title": "microservices",
+    "tags": "developer design",
     "href": "http://turnoff.us/geek/microservices",
     "image": "http://turnoff.us/image/en/microservices.png"
   },
   {
     "title": "binary tree",
+    "tags": "developer tool",
     "href": "http://turnoff.us/geek/binary-tree",
     "image": "http://turnoff.us/image/en/binary-tree.png"
   },
   {
     "title": "annoying software 4 - checkbox vs radio button",
+    "tags": "developer design",
     "href": "http://turnoff.us/geek/annoying-software-4",
     "image": "http://turnoff.us/image/en/annoying-software-4.png"
   },
   {
     "title": "zombie processes",
+    "tags": "developer design tool",
     "href": "http://turnoff.us/geek/zombie-processes",
     "image": "http://turnoff.us/image/en/zombies.png"
   },
   {
     "title": "poprocks and coke",
+    "tags": "developer tool",
     "href": "http://turnoff.us/geek/poprocks-and-coke",
     "image": "http://turnoff.us/image/en/8bits.png"
   },
   {
     "title": "jhamlet",
+    "tags": "developer tool",
     "href": "http://turnoff.us/geek/jhamlet",
     "image": "http://turnoff.us/image/en/jhamlet.png"
   },
   {
     "title": "java thread life",
+    "tags": "design language",
     "href": "http://turnoff.us/geek/java-thread-life",
     "image": "http://turnoff.us/image/en/thread-life.png"
   },
   {
     "title": "stranger things - in the sysadmin's world",
+    "tags": "system design",
     "href": "http://turnoff.us/geek/stranger-things-sysadmin-world",
     "image": "http://turnoff.us/image/en/stranger-things.png"
   },
   {
     "title": "who killed mysql? - epilogue",
+    "tags": "developer design tool",
     "href": "http://turnoff.us/geek/who-killed-mysql-epilogue",
     "image": "http://turnoff.us/image/en/who-killed-mysql-epilogue.png"
   },
   {
     "title": "sometimes they are",
+    "tags": "developer design",
     "href": "http://turnoff.us/geek/sad-robot",
     "image": "http://turnoff.us/image/en/sad-robot.png"
   },
   {
     "title": "dotnet on linux",
+    "tags": "system tool",
     "href": "http://turnoff.us/geek/dotnet-on-linux",
     "image": "http://turnoff.us/image/en/dotnet-on-linux.png"
   },
   {
     "title": "who killed mysql?",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/who-killed-mysql",
     "image": "http://turnoff.us/image/en/who-killed-mysql.png"
   },
   {
     "title": "to vi or not to vi",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/to-vi-or-not-to-vi",
     "image": "http://turnoff.us/image/en/to-vi-or-not-to-vi.png"
   },
   {
     "title": "brothers conflict (at linux kernel)",
+    "tags": "system",
     "href": "http://turnoff.us/geek/brothers-conflict",
     "image": "http://turnoff.us/image/en/brothers-conflict.png"
   },
   {
     "title": "big numbers",
+    "tags": "design practice",
     "href": "http://turnoff.us/geek/big-numbers",
     "image": "http://turnoff.us/image/en/big-numbers.png"
   },
   {
     "title": "the codeless developer",
+    "tags": "practice design",
     "href": "http://turnoff.us/geek/codeless",
     "image": "http://turnoff.us/image/en/codeless.png"
   },
   {
     "title": "introducing the oom killer",
+    "tags": "design tool",
     "href": "http://turnoff.us/geek/oom-killer",
     "image": "http://turnoff.us/image/en/oom-killer.png"
   },
   {
     "title": "reactive and boring",
+    "tags": "developer design",
     "href": "http://turnoff.us/geek/reactive-and-boring",
     "image": "http://turnoff.us/image/en/reactive-boring.png"
   },
   {
     "title": "hype detected",
+    "tags": "tool design",
     "href": "http://turnoff.us/geek/tech-adoption",
     "image": "http://turnoff.us/image/en/tech-adoption.png"
   },
   {
     "title": "java evolution parade",
+    "tags": "language design",
     "href": "http://turnoff.us/geek/java-evolution-parade",
     "image": "http://turnoff.us/image/en/java-evolution-parade.png"
   },
   {
     "title": "the opposite of rip",
+    "tags": "design practice",
     "href": "http://turnoff.us/geek/opposite-of-rip",
     "image": "http://turnoff.us/image/en/opposite-of-rip.png"
   },
   {
     "title": "how i met your mother",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/how-i-met-your-mother",
     "image": "http://turnoff.us/image/en/how-i-met-your-mother.png"
   },
   {
     "title": "schrödinger's cat last declarations",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/schrodinger-cat",
     "image": "http://turnoff.us/image/en/schrodinger-cat.png"
   },
   {
     "title": "bash on windows",
+    "tags": "system tool",
     "href": "http://turnoff.us/geek/bash-on-windows",
     "image": "http://turnoff.us/image/en/bash-on-windows.png"
   },
   {
     "title": "ubuntu updates",
+    "tags": "system tool",
     "href": "http://turnoff.us/geek/ubuntu-updates",
     "image": "http://turnoff.us/image/en/ubuntu-updates.png"
   },
   {
     "title": "sql server on linux part 2",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/sql-server-on-linux-2",
     "image": "http://turnoff.us/image/en/sql-server-on-linux-2.png"
   },
   {
     "title": "about javascript developers",
+    "tags": "developer language",
     "href": "http://turnoff.us/geek/love-ecma6",
     "image": "http://turnoff.us/image/en/love-ecmascript6.png"
   },
   {
     "title": "the real reason to not use sigkill",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/dont-sigkill",
     "image": "http://turnoff.us/image/en/dont-sigkill.png"
   },
   {
     "title": "java 20 - predictions",
+    "tags": "language design",
     "href": "http://turnoff.us/geek/java20-predictions",
     "image": "http://turnoff.us/image/en/java20.png"
   },
   {
     "title": "do the evolution, baby!",
+    "tags": "design",
     "href": "http://turnoff.us/geek/its-evolution-baby",
     "image": "http://turnoff.us/image/en/its-evolution-baby.png"
   },
   {
     "title": "sql server on linux",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/sql-server-on-linux",
     "image": "http://turnoff.us/image/en/sql-server-on-linux.png"
   },
   {
     "title": "when just-in-time is justin time",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/lazy-justin-is-late-again",
     "image": "http://turnoff.us/image/en/lazy-justin-is-late-again.png"
   },
   {
     "title": "the agile restaurant",
+    "tags": "design practice",
     "href": "http://turnoff.us/geek/agile-restaurant",
     "image": "http://turnoff.us/image/en/agile-restaurant.png"
   },
   {
     "title": "i love windows powershell",
+    "tags": "design tool",
     "href": "http://turnoff.us/geek/love-powershell",
     "image": "http://turnoff.us/image/en/love-powershell.png"
   },
   {
     "title": "linux master hero",
+    "tags": "system",
     "href": "http://turnoff.us/geek/linux-master-hero",
     "image": "http://turnoff.us/image/en/linux-master-hero.png"
   },
   {
     "title": "doing a great job together",
+    "tags": "developer practice",
     "href": "http://turnoff.us/geek/duke-tux",
     "image": "http://turnoff.us/image/en/duke-tux.png"
   },
   {
     "title": "geek rivalries",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/geek-rivalries",
     "image": "http://turnoff.us/image/en/geek-rivalries.png"
   },
   {
     "title": "a java nightmare",
+    "tags": "language design",
     "href": "http://turnoff.us/geek/a-java-nightmare",
     "image": "http://turnoff.us/image/en/a-java-nightmare.png"
   },
   {
     "title": "java family crisis",
+    "tags": "language",
     "href": "http://turnoff.us/geek/java-family-crisis",
     "image": "http://turnoff.us/image/en/family-crisis.png"
   },
   {
     "title": "annoying software 3 - the date situation",
+    "tags": "developer design",
     "href": "http://turnoff.us/geek/annoying-software-3",
     "image": "http://turnoff.us/image/en/annoying-software-3.png"
   },
   {
     "title": "the (sometimes hard) cloud journey ",
+    "tags": "cloud design",
     "href": "http://turnoff.us/geek/cloud-sometimes-hard-journey",
     "image": "http://turnoff.us/image/en/cloud-hard-journey.png"
   },
   {
     "title": "thread.sleep room",
+    "tags": "design practice",
     "href": "http://turnoff.us/geek/thread-sleep-room",
     "image": "http://turnoff.us/image/en/thread-sleep-room.png"
   },
   {
     "title": "web server upgrade training",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/webserver-upgrade-training",
     "image": "http://turnoff.us/image/en/upgrade-training.png"
   },
   {
     "title": "life in a web server",
+    "tags": "developer system",
     "href": "http://turnoff.us/geek/life-in-a-web-server",
     "image": "http://turnoff.us/image/en/life-in-a-web-server.png"
   },
   {
     "title": "mastering regexp",
+    "tags": "developer design tool",
     "href": "http://turnoff.us/geek/mastering-regexp",
     "image": "http://turnoff.us/image/en/regexp.png"
   },
   {
     "title": "java collections in duck life",
+    "tags": "language",
     "href": "http://turnoff.us/geek/java-collections",
     "image": "http://turnoff.us/image/en/java-collections.png"
   },
   {
     "title": "java garbage collection explained",
+    "tags": "language",
     "href": "http://turnoff.us/geek/java-gc-explained",
     "image": "http://turnoff.us/image/en/java-gc-explained.png"
   },
   {
     "title": "waze vs battery",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/waze-vs-battery",
     "image": "http://turnoff.us/image/en/waze-vs-battery.png"
   },
   {
     "title": "annoying software 2",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/annoying-software-2",
     "image": "http://turnoff.us/image/en/annoying-software-2.png"
   },
   {
     "title": "annoying software",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/annoying-software",
     "image": "http://turnoff.us/image/en/annoying-software.png"
   },
   {
     "title": "advanced species",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/advanced-species",
     "image": "http://turnoff.us/image/en/erlang.png"
   },
   {
     "title": "the modern evil",
+    "tags": "developer design",
     "href": "http://turnoff.us/geek/modern-evil",
     "image": "http://turnoff.us/image/en/modern-evil.png"
   },
   {
     "title": "software testing",
+    "tags": "practice",
     "href": "http://turnoff.us/geek/software-test",
     "image": "http://turnoff.us/image/en/test.png"
   },
   {
     "title": "arduino project",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/arduino-project",
     "image": "http://turnoff.us/image/en/arduino-new.png"
   },
   {
     "title": "tales of dos",
+    "tags": "system",
     "href": "http://turnoff.us/geek/tales-of-dos",
     "image": "http://turnoff.us/image/en/dos.png"
   },
   {
     "title": "developers",
+    "tags": "developer",
     "href": "http://turnoff.us/geek/developers",
     "image": "http://turnoff.us/image/en/developers.png"
   },
   {
     "title": "tcp buddies",
+    "tags": "tool",
     "href": "http://turnoff.us/geek/tcp-buddies",
     "image": "http://turnoff.us/image/en/tcp.png"
   }
